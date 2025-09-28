@@ -1,5 +1,0 @@
---JSON watchlist storage
-{
-  [12345] = "D_Apee", -- \TEST
-  [09876] = "example_UserName"
-}
